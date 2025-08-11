@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PythonOOP_davax.iml" filepath="$PROJECT_DIR$/.idea/PythonOOP_davax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OpenAi.iml" filepath="$PROJECT_DIR$/.idea/OpenAi.iml" />
     </modules>
   </component>
 </project>
