@@ -14,7 +14,7 @@ Această aplicație este un microserviciu dezvoltat cu Flask, care expune un API
 - **main.py**: punctul de pornire al aplicației
 - **requirements.txt**: dependențe
 - **test_api.py**: teste automate cu unittest
-- **test_requests.py**: teste API cu requests
+- **test_requests.py**: teste API cu requests (aplicatia trebuie sa ruleze)
 
 ## Funcționalități
 - API REST pentru pow, fibonacci, factorial
